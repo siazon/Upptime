@@ -25,18 +25,20 @@
     "url": "https://groupmeals.com",
     "icon": "https://icons.duckduckgo.com/ip3/groupmeals.com.ico",
     "slug": "groupmeals",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 676,
-    "timeWeek": 653,
-    "timeMonth": 626,
-    "timeYear": 626,
-    "dailyMinutesDown": {}
+    "time": 760,
+    "timeDay": 11323,
+    "timeWeek": 3317,
+    "timeMonth": 1293,
+    "timeYear": 760,
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   },
   {
     "name": "Ireholidays",
